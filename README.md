@@ -1,6 +1,5 @@
 # ARTIGO-SOBRE-JAVA
 ## APRENDENDO UM POUCO SOBRE ARRAYLIST e LINKEDLIST.
- ![OIG1]()
  ![OIG1](https://github.com/Ronaldoestudante/ARTIGO-SOBRE-JAVA/blob/main/Slide1.jpg)
 # Projeto artigo técnico gerado por I.A.s
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável.
